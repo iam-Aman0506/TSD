@@ -1,0 +1,23 @@
+.book-cards {
+    border: 2px solid #3498db;
+    padding: 15px;
+    margin: 10px;
+    background-color: #ecf0f1;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .book-card-heading {
+    font-size: 20px;
+    margin-bottom: 10px;
+    color: #2c3e50;
+    font-weight: bold;
+  }
+  
+  .book-values {
+    margin-bottom: 5px;
+    color: #34495e;
+    font-weight: bold;
+  }
+  
+  
+  

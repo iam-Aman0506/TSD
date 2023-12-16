@@ -1,0 +1,23 @@
+.author-cards {
+    border: 2px solid #e74c3c;
+    padding: 15px;
+    margin: 10px;
+    background-color: #f2dede;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .author-card-heading {
+    font-size: 20px;
+    margin-bottom: 10px;
+    color: #c0392b;
+    font-weight: bold;
+  }
+  
+  .author-values {
+    margin-bottom: 5px;
+    color: #992d22;
+    font-weight: bold;
+  }
+  
+  
+  
