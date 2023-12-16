@@ -1,0 +1,14 @@
+body {
+    align-items: center;
+}
+
+.bg-container {
+    height: 100px;
+    background-color:rgb(232, 85, 85);
+}
+
+.counter-heading {
+    font-size: 40px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
